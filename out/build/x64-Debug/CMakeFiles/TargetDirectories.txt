@@ -1,0 +1,3 @@
+C:/Users/sanss/source/repos/MisterAndMister/practice12/out/build/x64-Debug/CMakeFiles/myprogram.dir
+C:/Users/sanss/source/repos/MisterAndMister/practice12/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sanss/source/repos/MisterAndMister/practice12/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

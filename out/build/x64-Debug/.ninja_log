@@ -1,0 +1,4 @@
+# ninja log v6
+49	1024	7730955889499171	CMakeFiles/myprogram.dir/src/utils.cpp.obj	28af25f0c1b99c0a
+44	308	7730955889338335	CMakeFiles/myprogram.dir/src/main.cpp.obj	31b76a0651e2eba7
+1025	3876	7730955899128577	myprogram.exe	15f3e00582627059
