@@ -1,1 +1,1 @@
-# My repository for practice
+# Изучение Make и CMake
