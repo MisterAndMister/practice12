@@ -1,1 +1,2 @@
-# My repository for practice
+# Создание скрипта
+
